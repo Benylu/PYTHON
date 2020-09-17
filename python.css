@@ -1,0 +1,238 @@
+.Part1{
+    background-color:#214869;
+    height: 511px;
+    width: 1000px;
+}
+.Top{
+    background-color:#214869;
+    display: inline-block;
+    width: 1000px;
+    height: 439px;
+}
+#Logo{
+    height: 101px;
+    width: 386px;
+    display: inline-block;
+}
+.Topright{
+    margin-bottom: 100px;
+    margin-top: -14px;
+    margin-left: 251px ;
+    width: 160px;
+    height: 38px;
+    display: inline-block;
+    vertical-align: top;
+}
+.Textright{
+    color: white;
+    font-size: 14px;
+    margin-top: 18px;
+    margin-left: 10px;
+}
+.Linktop{
+    color: rgb(248, 212, 6);
+
+}
+.Searchbar{
+    width: 215px;
+    height: 38px;
+    background-color: rgb(39, 38, 38);
+    margin-top: -100px;
+    margin-left: 568px;
+    padding-left: 33px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: -4px;
+    border-radius: 5px;
+    display: block;
+}
+#Button{
+    background-color: rgb(40, 113, 161);
+    color: white;
+}
+#searchtext{
+    text-align: center;
+}
+.Topmenu{
+    background-color: rgb(46, 134, 192);
+    width: 840px;
+    height: 53px;
+    display: inline-flex;
+    justify-content: space-evenly;
+    vertical-align: top;
+    margin-left: 59px;
+    margin-top: 48px;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 16px;
+    border-radius: 9px;
+}
+#Menu1{
+display: inline;
+}
+#Menu2{
+    display: inline;
+}
+#Menu3{
+    display: inline;
+}
+#Menu4{
+    display: inline;
+}
+#Menu5{
+    display: inline;
+}
+#Menu6{
+    display: inline;
+}
+.Undermenu{
+    margin-top: -100px;
+}
+.Undermenuleft{
+    display: inline-block;
+    list-style-type: disc;
+    margin-top: -200px;
+    margin-bottom: 20px;
+    margin-left: 95px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-align: center;
+    color:  rgb(248, 212, 6);
+    list-style-position: inside;
+}
+.Link{
+    color: white;
+}
+.Undermenuright{
+    display: inline-block;
+    margin-left: 157px;
+    margin-top:-150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+}
+#Undermenurightp{
+    width: 572px;
+    height: 19px;
+    margin-top: -46px ;
+    margin-left: 166px;
+    text-align: left;
+    text-indent: 10px;
+}
+#Undermenupoem{
+    margin-top: -14px;
+    margin-left: 50px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color: rgb(248, 212, 6);
+    font-size: 16px;
+    text-indent: 10px;
+}
+#Poemsource{
+    color:white;
+    font-style: normal;
+}
+.Middle{
+    background-color: rgb(255, 255, 255);
+    margin-top: -19px;
+    height: 400px;
+    width: 1000px;
+    margin-bottom: -86px;
+}
+.Midleft{
+    display: inline-block;
+    vertical-align: center;
+    margin-left: 69px;
+    margin-top: 10px;
+    height: 5px;
+    width: 400px;
+    background-color:rgb(46, 134, 192);
+    text-align: center;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#MLtitle{
+    font-size: 18px;
+}
+#MLtext{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    margin-left: 50px;
+}
+#MLlist{
+    font-size: 13px;
+    text-indent: 5px;
+    width: 220px;
+    margin-left: 44px;
+    color: rgb(5, 4, 0);
+    text-decoration: none;
+    align-items: center;
+    list-style-type: disc;
+    color: rgb(96, 157, 207);
+}
+.Midright{
+    height: 5px;
+    width: 400px; 
+    background-color: rgb(46, 134, 192);
+    margin-left: 12px;
+    margin-top: 10px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#MRtitle{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#MRtext{
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    width:300px;
+    margin-left: 51px;
+}
+#MRlist{
+    font-size: 13px;
+    text-indent: 5px;
+    width: 220px;
+    margin-left: 44px;
+    color: rgb(0, 0, 0);
+    align-items: center;
+    color: rgb(96, 157, 207);
+}
+.UL{
+    color: black;
+    list-style-type: square;
+    list-style-image: radial-gradient(black,black);
+    list-style-position: outside;
+}
+.Bottom{
+    background-image: radial-gradient(#214869,rgb(76, 115, 160));
+    display: inline-block;
+    vertical-align: center;
+    width: 1013px;
+    height: 117px;
+    margin-top: -239px;
+}
+.Bottom1{
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 100px;
+    padding-top: 18px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(105, 180, 241);
+}
+.Bottom2{
+    margin-left: 400px;
+    color: rgb(105, 180, 241);
+    font-size: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -0px;
+}
